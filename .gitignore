@@ -20,6 +20,8 @@ dist-ssr
 supabase/.temp/
 db_password.txt
 *.ps1
+*.zip
+
 
 
 # Editor directories and files
